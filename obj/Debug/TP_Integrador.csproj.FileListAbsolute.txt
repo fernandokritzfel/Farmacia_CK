@@ -1,0 +1,6 @@
+C:\Users\ferna\OneDrive\Escritorio\Fer\algoritmos y programacion\TP_Integrador\TP_Integrador\obj\Debug\TP_Integrador.csprojResolveAssemblyReference.cache
+C:\Users\ferna\OneDrive\Escritorio\Fer\algoritmos y programacion\TP_Integrador\TP_Integrador\bin\Debug\TP_Integrador.exe.config
+C:\Users\ferna\OneDrive\Escritorio\Fer\algoritmos y programacion\TP_Integrador\TP_Integrador\bin\Debug\TP_Integrador.exe
+C:\Users\ferna\OneDrive\Escritorio\Fer\algoritmos y programacion\TP_Integrador\TP_Integrador\bin\Debug\TP_Integrador.pdb
+C:\Users\ferna\OneDrive\Escritorio\Fer\algoritmos y programacion\TP_Integrador\TP_Integrador\obj\Debug\TP_Integrador.exe
+C:\Users\ferna\OneDrive\Escritorio\Fer\algoritmos y programacion\TP_Integrador\TP_Integrador\obj\Debug\TP_Integrador.pdb
